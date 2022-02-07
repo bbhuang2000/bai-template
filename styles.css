@@ -3,11 +3,11 @@ body {
    background-color: #F08080}
    
    /* Make all yor images "100%" wide and they fill to the width of the parent <body> */
-   img {
-    width: 20%;
+img {
+    width: 55%;
     height: 50vh;
    
-   }
+}
    
    h1 {
     font-family: "Georgia";
@@ -97,5 +97,4 @@ body {
     text-align: left;
     margin-top: 20px;
    }
-   
-   
+  
